@@ -1,0 +1,14 @@
+{
+  "name": "mern-template",
+  "version": "1.0.0",
+  "description": "just a template boi.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"cd backend && npm run dev\" \"cd frontend && npm start\""
+  },
+  "author": "Dirag Biswas",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^5.2.0"
+  }
+}
