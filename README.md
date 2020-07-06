@@ -1,2 +1,2 @@
 # mern-template
- pls work.
+clone to create a simple MERN app.
